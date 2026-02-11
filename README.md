@@ -35,8 +35,7 @@ All datasets were joined within Tableau Public for seamless multi-table analysis
 
 ![Global Electronics Retailer Dashboard](dashboard/global_electronics_retailer_dashboard.png)
 
-> **Interactive Dashboard:**  
-> [View Live Tableau Public Dashboard →](https://public.tableau.com/views/GlobalElectronicsRetailer_17696262976770/GlobalElectronicsRetailerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+> **Interactive Version:** [View the Live Tableau Dashboard Here](https://public.tableau.com/views/GlobalElectronicsRetailer_17696262976770/GlobalElectronicsRetailerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
